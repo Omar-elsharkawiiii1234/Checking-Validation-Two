@@ -1,0 +1,16 @@
+.father{
+    position: relative;
+}
+.father i{
+    position: absolute;
+    top: 16px;
+    left: 5px;
+    font-size: 20px;
+    color: #0808c6;
+}
+.styling{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
